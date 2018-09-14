@@ -1,1 +1,8 @@
 C:\Users\aluno\Desktop\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\obj\Debug\projAtendimento.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\obj\Debug\projAtendimento.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\aluno\Desktop\projAtendimento\projAtendimento\obj\Debug\projAtendimento.pdb
