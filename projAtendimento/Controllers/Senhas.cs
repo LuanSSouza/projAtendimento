@@ -18,7 +18,8 @@ namespace projAtendimento.Controllers
         }
 
         public void gerar() {
-            filaSenhas.Enqueue(new Senha(0));
+            filaSenhas.Enqueue(new Senha(proximoAtendimento));
+            proximoAtendimento++;
         }
     }
 }

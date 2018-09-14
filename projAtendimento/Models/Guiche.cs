@@ -23,7 +23,9 @@ namespace projAtendimento.Models
         public bool chamar(Queue<Senha> filaSenhas) {
             if (filaSenhas.Count == 0) return false;
             Senha aux = filaSenhas.Dequeue();
-            // Arrumar : Chamar setter dataAtend e horaAtend
+            aux.DataAtend = DateTime.Now;
+            aux.HoraAtend = DateTime.Now;
+            atendimentos.Enqueue(aux);
             return true;
         }
     }

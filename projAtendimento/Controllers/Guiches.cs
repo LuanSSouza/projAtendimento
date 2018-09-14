@@ -16,7 +16,7 @@ namespace projAtendimento.Controllers
         }
 
         public void adicionar(Guiche guiche) {
-            listaGuiches.Add(new Guiche());
+            listaGuiches.Add(new Guiche(listaGuiches.Count + 1));
         }
     }
 }
