@@ -93,7 +93,7 @@
             this.btnListarSenhas.Name = "btnListarSenhas";
             this.btnListarSenhas.Size = new System.Drawing.Size(94, 23);
             this.btnListarSenhas.TabIndex = 5;
-            this.btnListarSenhas.Text = "Lista Senhas";
+            this.btnListarSenhas.Text = "Listar Senhas";
             this.btnListarSenhas.UseVisualStyleBackColor = true;
             this.btnListarSenhas.Click += new System.EventHandler(this.btnListarSenhas_Click);
             // 
@@ -103,7 +103,7 @@
             this.btnListarAtend.Name = "btnListarAtend";
             this.btnListarAtend.Size = new System.Drawing.Size(136, 23);
             this.btnListarAtend.TabIndex = 6;
-            this.btnListarAtend.Text = "Lista Atendimentos";
+            this.btnListarAtend.Text = "Listar Atendimentos";
             this.btnListarAtend.UseVisualStyleBackColor = true;
             this.btnListarAtend.Click += new System.EventHandler(this.btnListarAtend_Click);
             // 

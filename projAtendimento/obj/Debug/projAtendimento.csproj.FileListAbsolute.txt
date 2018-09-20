@@ -16,3 +16,12 @@ C:\Users\Lenovo ThinkPad\Documents\Faculdade\projAtendimento\projAtendimento\pro
 C:\Users\Lenovo ThinkPad\Documents\Faculdade\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo ThinkPad\Documents\Faculdade\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.exe
 C:\Users\Lenovo ThinkPad\Documents\Faculdade\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.pdb
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe.config
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\bin\Debug\projAtendimento.pdb
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.csprojResolveAssemblyReference.cache
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.Views.Atendimento.resources
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.csproj.GenerateResource.Cache
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.exe
+E:\Arquivos\ADS\471\projAtendimento\projAtendimento\obj\Debug\projAtendimento.pdb

@@ -25,11 +25,11 @@ namespace projAtendimento.Models
             this.horaGerac = DateTime.Now;
         }
         public string dadosParciais() {
-            return id + "-" + dataGerac.ToString("dd/MM/yyyy") + " - " + horaGerac.ToString("HH:mm");
+            return id + " - " + dataGerac.ToString("dd/MM/yyyy") + " - " + horaGerac.ToString("HH:mm");
         }
 
         public string dadosCompletos() {
-            return id + "-" + dataGerac.ToString("dd/MM/yyyy") + " - " + horaGerac.ToString("HH:mm") + 
+            return id + " - " + dataGerac.ToString("dd/MM/yyyy") + " - " + horaGerac.ToString("HH:mm") + 
                 " - " + dataAtend.ToString("dd/MM/yyyy") + " - " + horaAtend.ToString("HH:mm");
         }
     }

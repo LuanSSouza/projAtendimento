@@ -49,7 +49,7 @@ namespace projAtendimento.Views
         {
             var index = Int32.Parse(txtGuiche.Text) - 1;
             lbxSenhasGuiche.Items.Clear();
-            guiches.ListaGuiches[index].Atendimentos.ToList().ForEach(i => lbxSenhasGuiche.Items.Add(i.dadosParciais()));
+            guiches.ListaGuiches[index].Atendimentos.ToList().ForEach(i => lbxSenhasGuiche.Items.Add(i.dadosCompletos()));
         }
     }
 
