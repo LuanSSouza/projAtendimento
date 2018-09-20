@@ -10,6 +10,7 @@ namespace projAtendimento.Models
     {
         private int id;
         private Queue<Senha> atendimentos;
+        public Queue<Senha> Atendimentos { get { return atendimentos; } }
 
         public Guiche() {
             id = 0;

@@ -11,6 +11,7 @@ namespace projAtendimento.Controllers
     {
         private int proximoAtendimento;
         private Queue<Senha> filaSenhas;
+        public Queue<Senha> FilaSenhas { get { return filaSenhas; } }
 
         public Senhas() {
             proximoAtendimento = 1;
